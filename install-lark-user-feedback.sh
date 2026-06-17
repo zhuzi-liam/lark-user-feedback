@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="${LARK_USER_FEEDBACK_REPO:-https://github.com/easondoittt/lark-user-feedback.git}"
+REPO_URL="${LARK_USER_FEEDBACK_REPO:-https://github.com/zhuzi-liam/lark-user-feedback.git}"
 INSTALL_ROOT="${LARK_USER_FEEDBACK_HOME:-$HOME/lark-user-feedback}"
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" 2>/dev/null && pwd || pwd)"
 SKILL="$ROOT/skills/lark-user-feedback"

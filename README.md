@@ -9,13 +9,13 @@
 一键安装：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/easondoittt/lark-user-feedback/main/install-lark-user-feedback.sh | bash
+curl -fsSL https://raw.githubusercontent.com/zhuzi-liam/lark-user-feedback/main/install-lark-user-feedback.sh | bash
 ```
 
 也可以手动安装：
 
 ```bash
-git clone https://github.com/easondoittt/lark-user-feedback.git ~/lark-user-feedback
+git clone https://github.com/zhuzi-liam/lark-user-feedback.git ~/lark-user-feedback
 cd ~/lark-user-feedback
 ./install-lark-user-feedback.sh
 ```
