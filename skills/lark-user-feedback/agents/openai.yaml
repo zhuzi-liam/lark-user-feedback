@@ -1,4 +1,4 @@
 interface:
-  display_name: "用户反馈用研"
-  short_description: "从飞书反馈群提炼用户反馈、设计机会点和需求证据。"
+  display_name: "lark-user-feedback"
+  short_description: "User feedback / feed research skill：从飞书反馈群提炼用户反馈、设计机会点和需求证据。"
   default_prompt: "分析指定飞书反馈群在指定时间范围内关于某个功能的用户反馈，生成带原文链接、主题聚类、优先级和设计机会点的用研报告。"
